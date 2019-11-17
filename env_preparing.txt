@@ -1,0 +1,3 @@
+conda create --name ml_env
+conda activate ml_env
+conda install tensorflow numpy matplotlib pillow h5py jupyter
